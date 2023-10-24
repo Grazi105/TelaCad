@@ -8,6 +8,6 @@ module.exports = {
   database: 'UX',
   synchronize: true, 
   entities: [
-    'src/models/AreaInteresse.js' 
+    'src/Back_AreaInteresse/AreaInteresse.js' 
   ],
 };
